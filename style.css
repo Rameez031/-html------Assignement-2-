@@ -1,0 +1,28 @@
+body{
+    margin:0%;
+    padding: 0%;
+    background-color:aliceblue;
+}
+
+
+h1{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+h2{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+p{
+    font-family:'Times New Roman', Times, serif;
+    font-size: 20px;
+}
+address{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 20px;
+}
+ul li{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 20px;  
+}
+h3{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
